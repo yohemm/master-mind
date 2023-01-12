@@ -12,7 +12,7 @@ A Master mind terminal.
 
 1. Clone the repository
 ```git
-git clone https://github.com/yohemm/master-mind/edit/master.git
+git clone https://github.com/yohemm/master-mind/.git
 ```
 
 ## Usage
@@ -25,4 +25,4 @@ java main.java
 
 ## Authors
 
-* **Yohem** - *Initial work* - [Your GitHub username](https://github.com/yohemm)
+* **Yohem** - *Initial work* - [Yohemm](https://github.com/yohemm)
