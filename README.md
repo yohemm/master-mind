@@ -4,6 +4,17 @@
 <!-- ![Project Banner](path/to/banner/image)  -->
 
 ## Overview
+## 🌟 Project Status
+
+> **Current Status**: **:red_circle: Discontinued**
+>
+> Study Projet
+> 
+> Ending date for evaluation was pass
+>
+> So no maintainer and somes bugs
+
+---
 
 A Master mind terminal.
 
