@@ -1,5 +1,5 @@
 
-# Peace Full RPGs
+# Master Mind
 
 <!-- ![Project Banner](path/to/banner/image)  -->
 
